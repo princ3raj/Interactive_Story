@@ -1,5 +1,7 @@
 # Interactive_Story
-Interactive story app, the third project i have made
+*Interactive story app, the third project i have made*
+### Story gets changed according to user selection
+
 
 <img src="image1.jpeg" width="270"/>
 <img src="image2.jpeg" width="270"/>
